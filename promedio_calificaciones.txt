@@ -1,0 +1,3 @@
+Nombre del estudiante: eduardo
+Promedio: 3.2
+Estado del estudiante: Reprobado

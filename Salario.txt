@@ -1,0 +1,3 @@
+Nombre del empleado: eduardo
+Salario base: 1000.0
+Salario neto: 880.0
