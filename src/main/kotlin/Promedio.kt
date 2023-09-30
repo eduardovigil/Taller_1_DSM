@@ -1,6 +1,6 @@
 import java.io.File
 
-fun main() {
+fun promedio() {
     println("Calculadora de Promedio de Calificaciones")
 
     // Solicitar el nombre del estudiante
